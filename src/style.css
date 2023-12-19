@@ -1,0 +1,6 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
+/* eslint-disable @tailwindcss/missing-warn */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
